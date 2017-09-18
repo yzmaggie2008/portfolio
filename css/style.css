@@ -1,12 +1,10 @@
 .logo {
 	height: 100px;
 	margin-top: 1em;
-
 }
 
 .text-uppercase {
 	text-transform: uppercase;
-	
 }
 
 .links {
@@ -32,7 +30,6 @@
 	border-top: 4px double #8c8b8b;
 	text-align: center;
 	margin-top: 0;
-}
 }
 
 .style15:after {
@@ -73,9 +70,10 @@ h3 {
 	font-family: 'Lobster Two', sans-serif;
     color: #4caf50;
     margin-left: 10px;
+    float:left;
 }
 
-.name{
+.name {
 	float: left;
     padding-top: 40px;
     margin: 0;
@@ -83,26 +81,15 @@ h3 {
     font-size: 60px;
     color: #69f0ae;
 }
+
 .img-center{
-	display:table-cell;
-	vertical-align:middle;
-	text-align:center;
+	display: table-cell;
+	vertical-align: middle;
+	text-align: center;
 }
 
 .img-margin {
     margin: 0;
-}
-
-.img-size1 {
-	width: 400px;
-	height: 400px;
-	
-}
-
-.img-size2{
-	
-	width: 400px;
-	height:400px;
 }
 
 p {
